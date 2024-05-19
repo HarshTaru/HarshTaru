@@ -58,7 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HarshTaru/HarshTaru/output/snake.svg" alt="Snake animation" />
 
 ###
 
