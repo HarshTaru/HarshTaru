@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Taru</h1>
 <h3 align="center">A passionate developer who loves exploring new technologies and solving problems through code.</h3>
-
+<p> Backend Developer passionate about building scalable, resilient, and user-focused systems. Experienced in distributed systems, event-driven architectures, and cloud services (GCP, AWS). Proficient in Java, Python, and Node.js with a strong foundation in debugging, testing, and API design. Proven ability to collaborate across functions, take ownership, and deliver impactful fintech solutions with a focus on simplicity, inclusion, and reliability.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshTaru&label=Profile%20views&color=0e75b6&style=flat" alt="HarshTaru" /> </p>
 
 <div align="center">
